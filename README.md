@@ -1,8 +1,8 @@
-# Charters for Pivotal Tracker
+# Santa for Pivotal Tracker
 
-This Chrome extension for Pivotal Tracker makes it very easy to see which of your stories are labeled as charters. 
+This Chrome extension for Pivotal Tracker makes it very easy to see which of your stories are labeled as christmas. 
 
-Any of story with a label that contains the string 'charter' will be displayed with a rocketship icon.
+Any of story with a label that contains the string 'christmas-2018' will be displayed with a santa icon.
 
 ## License
 
