@@ -1,3 +1,3 @@
 var isLabelEligible = function isLabelEligible(labelText) {
-  return labelText.indexOf('charter') !== -1;
+  return labelText.indexOf('christmas-2018') !== -1;
 };
